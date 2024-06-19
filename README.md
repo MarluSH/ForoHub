@@ -8,5 +8,5 @@ Spring Web,
 Spring Boot DevTools,
 MySQL,
 Validation,
-Spring Security,
+Spring Security.
 Para poder realizar testers debemos utilizar la herramienta de Insomnia o Postman.
