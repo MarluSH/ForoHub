@@ -1,0 +1,7 @@
+CREATE TABLE autorxs (
+    id BIGINT NOT NULL AUTO_INCREMENT,
+    email VARCHAR(100) NOT NULL,
+    clave VARCHAR(300) NOT NULL UNIQUE,
+    PRIMARY KEY (id)
+);
+
